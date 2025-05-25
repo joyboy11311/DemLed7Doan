@@ -1,0 +1,29 @@
+{A:/IC Design/Test/DemLed7Doan/top.v} {1 {vlog -work work -stats=none {A:/IC Design/Test/DemLed7Doan/top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {A:/IC Design/Test/DemLed7Doan/tb_top.v} {1 {vlog -work work -stats=none {A:/IC Design/Test/DemLed7Doan/tb_top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tp_top
+
+Top level modules:
+	tp_top
+
+} {} {}} {A:/IC Design/Test/DemLed7Doan/seven_segment_decoder.v} {1 {vlog -work work -stats=none {A:/IC Design/Test/DemLed7Doan/seven_segment_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seven_segment_decoder
+
+Top level modules:
+	seven_segment_decoder
+
+} {} {}} {A:/IC Design/Test/DemLed7Doan/counter.v} {1 {vlog -work work -stats=none {A:/IC Design/Test/DemLed7Doan/counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}

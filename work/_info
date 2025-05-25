@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dA:/IC Design/Test
+vcounter
+!s110 1748092403
+!i10b 1
+!s100 Cg9:Md8kGcIUHe8U`0zId1
+I9iNZ>JO337]E:1;]NA2fK0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dA:/IC Design/Test/DemLed7Doan
+w1748092399
+8A:/IC Design/Test/DemLed7Doan/counter.v
+FA:/IC Design/Test/DemLed7Doan/counter.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1748092403.000000
+!s107 A:/IC Design/Test/DemLed7Doan/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|A:/IC Design/Test/DemLed7Doan/counter.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vseven_segment_decoder
+!s110 1748092502
+!i10b 1
+!s100 =^1h`R_?AazWJfVzWH9@<1
+IL<236^j@1Y4YoIAkfi`mO3
+R0
+R1
+w1748091282
+8A:/IC Design/Test/DemLed7Doan/seven_segment_decoder.v
+FA:/IC Design/Test/DemLed7Doan/seven_segment_decoder.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748092502.000000
+!s107 A:/IC Design/Test/DemLed7Doan/seven_segment_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|A:/IC Design/Test/DemLed7Doan/seven_segment_decoder.v|
+!i113 1
+R3
+R4
+vtop
+!s110 1748092490
+!i10b 1
+!s100 G_WZ;D?6jacXiIFH?Xo@d3
+IF=_M]STillia^4f?Hg68`2
+R0
+R1
+w1748092069
+8A:/IC Design/Test/DemLed7Doan/top.v
+FA:/IC Design/Test/DemLed7Doan/top.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748092490.000000
+!s107 A:/IC Design/Test/DemLed7Doan/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|A:/IC Design/Test/DemLed7Doan/top.v|
+!i113 1
+R3
+R4
+vtp_top
+!s110 1748092726
+!i10b 1
+!s100 Izb7znYMMdj`@eoJ`c>CS1
+Inb?9929n8m:?]f=2@mLU^0
+R0
+R1
+w1748092721
+8A:/IC Design/Test/DemLed7Doan/tb_top.v
+FA:/IC Design/Test/DemLed7Doan/tb_top.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1748092726.000000
+!s107 A:/IC Design/Test/DemLed7Doan/tb_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|A:/IC Design/Test/DemLed7Doan/tb_top.v|
+!i113 1
+R3
+R4
